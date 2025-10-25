@@ -1,6 +1,38 @@
 # Data-Analytics-Capstone-Project-COOP-2023
 Ad campaign for client working with multiple agencies to activate media across various channels. 
 
+<table>
+	     <tr>
+		        <th>Goal Type</th>
+		        <th>Primary Goal</th>
+		        <th>Secondary Goal</th>
+	     </tr>
+	     <tr>
+		        <td>1P Audience</td>
+          <td>$100 CPA</td>
+          <td>$140 ROAS</td>
+      </tr>
+      <tr>
+		        <td>Custom Audience</td>
+          <td>$45 CPA</td>
+          <td>$400 ROAS</td>
+ 	    <tr/>
+	     <tr>
+		        <td>3P Audience</td>
+		        <td>TBD</td>
+          <td>0.04% CTR</td>
+	     </tr>
+	     <tr>
+		        <td>Desktop Inventory</td>
+		        <td>$35 CPA</td>
+		        <td>$200K Total Revenue</td>
+      <tr>
+		        <td>Mobile Inventory</td>
+		        <td>$75 CPA</td>
+          <td>$4 vCPM</td>
+	     </tr>
+</table>
+
 ## **Device + Location Goals:** 
 
 **1. Market Efficiency**
@@ -44,8 +76,39 @@ Gross Cost: Includes the total cost of all media activity.
 Net Cost: Cost incurred from running media.
 Metrics like ROI (Return on Investment), CPA (Cost Per Acquisition), and ROAS (Return on Ad Spend) will be used to measure cost-effectiveness.<br> 
 
-
 ## **Audience Goals:** 
+
+<table>
+      <tr>
+          <th>Target Strategy </th>
+		        <th>Conversion Value</th>
+      </tr>
+      <tr>
+		        <td>1P Audience</td>
+          <td>$183.59</td>
+      </tr>
+      <tr>
+		        <td>Custom Audience</td>
+          <td>$69.45</td>
+      </tr>
+      <tr>
+		        <td>3P Audience</td>
+		        <td>TBD</td>
+      </tr>
+      <tr>
+		        <td>Desktop Inventory</td>
+		        <td>$46.42</td>
+      </tr>
+      <tr>		
+          <td>Mobile Inventory</td>
+		        <td>$54.23</td>
+      </tr>
+      <tr>
+	         <td>Mobile Creative</td>
+	         <td>$120.47</td>
+      </tr>
+</table> <br>
+
 
 **1. Top Performing Audiences & Personas:** 
 
@@ -77,5 +140,5 @@ Gross Cost: Includes the total cost of all media activity.
 Net Cost: Cost incurred from running media.
 Metrics like ROI, CPA, and ROAS will be used to measure cost effectiveness.<br> 
 
-<br>Team 1's objectives revolve around optimizing the client's budget allocation by analyzing performance across different markets, devices, and audience segments. Through a combination of performance metrics, external validation, and data consistency efforts, they aim to provide actionable insights to enhance campaign efficiency and effectiveness. 
+<br>Team 1's objectives revolve around optimizing the client's budget allocation by analyzing performance across different markets, devices, and audience segments. Through a combination of performance metrics, external validation, and data consistency efforts, they aim to provide actionable insights to enhance campaign efficiency and effectiveness. </br>
 
