@@ -1,6 +1,6 @@
 # Data-Analytics-Capstone-Project-COOP-2023
-Ad campaign for client working with multiple agencies to activate media across various channels. 
-[DA Project Slides](https://docs.google.com/presentation/d/19jOKTX8baZoIa6-At_t-S8FIKLgnoWp1QXS9aVZYebQ/edit?usp=sharing) 
+Ad campaign for client working with multiple agencies to activate media across various channels.<br> 
+[DA Capstone Project Slides](https://docs.google.com/presentation/d/19jOKTX8baZoIa6-At_t-S8FIKLgnoWp1QXS9aVZYebQ/edit?usp=sharing) 
 
 <table>
 	     <tr>
